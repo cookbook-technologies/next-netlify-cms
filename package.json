@@ -1,0 +1,34 @@
+{
+  "name": "next-netlify-cms-typescript",
+  "version": "1.0.0",
+  "description": "Next Netlify CMS implementation written in typescript",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "keywords": [
+    "next",
+    "react",
+    "netlify",
+    "netlify-cms"
+  ],
+  "author": "Neil Monzales",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-react": "^7.16.7",
+    "@netlify/plugin-nextjs": "^4.2.0",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "frontmatter-markdown-loader": "^3.6.3",
+    "typescript": "^4.5.5"
+  }
+}

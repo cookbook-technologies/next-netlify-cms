@@ -1,5 +1,5 @@
 ---
-title: Static App Edited from Netlify CMS from mobile
+title: Static App Edited from Netlify CMS
 date: 2022-01-22T18:16:38.806Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
